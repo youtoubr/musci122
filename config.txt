@@ -1,7 +1,7 @@
 token=process.env.token
 owner=406039166959353857
-prefix=-
+prefix=.
 game= 👑Minecraft👑
 stayinchannel=true
 songinstatus=true
-token=NTY3NDI5ODUyNTYzNTA1MTY1.XLXewg.YfHrkL9LicqQD144E9Xed1sPLnM
+token=NTY4MDI3NTk5NzgwMDUzMDE0.XLcG-Q.v5_tbu80WUD47COBGO69QjF6qMo
